@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>https://myp3906.github.io/post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 10 May 2019 21:25:00 +0800</lastBuildDate>
+    
+	<atom:link href="https://myp3906.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Python参考书籍</title>
+      <link>https://myp3906.github.io/post/blog/</link>
+      <pubDate>Fri, 10 May 2019 21:25:00 +0800</pubDate>
+      
+      <guid>https://myp3906.github.io/post/blog/</guid>
+      <description> Python参考书籍 入门读物  《Python基础教程》（*Beginning Python From Novice to Professional*） 《Python学习手册》（*Learning Python*） 《Python编程》（*Programming Python*） 《Python Cookbook》 《Python程序设计》（*Python Programming: An Introduction to Computer Science*） 《Modern Python Cookbook》  进阶读物  《Python核心编程》（*Core Python Applications Programming*） 《流畅的Python》（*Fluent Python*） 《Effective Python：编写高质量Python代码的59个有效方法》（*Effective Python 59 Specific Ways to Write Better Python*） 《Python设计模式》（*Learning Python Design Patterns*） 《Python高级编程》（*Expert Python Programming*） 《Python性能分析与优化》（*Mastering Python High Performance*）  Web框架  《Django基础教程》（*Tango with Django*） 《轻量级Django》（*Lightweight Django*） 《Python Web开发：测试驱动方法》（*Test-Driven Development with Python*） 《Web Development with Django Cookbook》 《Test-Driven Development with Django》 《Django Project Blueprints 》 《Flask Web开发：基于Python的Web应用开发实战》（*Flask Web Development: Developing Web Applications with Python*） 《深入理解Flask》（*Mastering Flask*）  爬虫开发  《用Python写网络爬虫》（*Web Scraping with Python*） 《精通Python爬虫框架Scrapy》（*Learning Scrapy*） 《Python网络数据采集》（*Web Scraping with Python*） 《Python爬虫开发与项目实战》 《Python 3网络爬虫开发实战》  数据分析  《利用Python进行数据分析》（*Python for Data Analysis*） 《Python数据科学手册》（*Python Data Science Handbook*） 《Python金融大数据分析》（*Python for Finance*） 《Python数据可视化编程实战》（*Python Data Visualization Cookbook*） 《Python数据处理》（*Data Wrangling with Python*）  机器学习  《Python机器学习基础教程》（*Introduction to Machine Learning with Python*） 《Python机器学习实践指南》（*Python Machine Learning Blueprints*） 《Python Machine Learning Case Studies》 《Python机器学习实践：测试驱动的开发方法》（*Thoughtful Machine Learning with Python A Test Driven Approach*） 《Python机器学习经典实例》（*Python Machine Learning Cookbook*） 《TensorFlow：实战Google深度学习框架》  </description>
+    </item>
+    
+  </channel>
+</rss>
